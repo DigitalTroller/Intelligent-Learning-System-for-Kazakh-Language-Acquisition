@@ -1,0 +1,36 @@
+0 Alma
+1 Banan
+2 Qızılşa
+3 Bolgar burışı
+4 Qırıqqabat
+5 Burış
+6 Säbiz
+7 Tüsti qırıqqabat
+8 Burış burışı
+9 Jügeri
+10 Qïyar
+11 Baklajan
+12 Sarımsaq
+13 Ïmbïr
+14 Jüzim
+15 Jas
+16 Kïvï
+17 Lïmon
+18 Salat
+19 Mango
+20 Pïyaz
+21 Apelsïn
+22 Paprïka
+23 Almurt
+24 Burşaq
+25 Ananas
+26 Anar
+27 Kartop
+28 Şalğam
+29 Soya burşaqtarı
+30 Şpïnat
+31 Tätti jügeri
+32 Tätti kartop
+33 Qızanaq
+34 Salqan
+35 Qarbız
